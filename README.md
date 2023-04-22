@@ -3,12 +3,17 @@
 러스트를 배워볼까요
 
 ## Getting Started
+   - [convenient settings](#convenient-settings)
+   - [cargo](#cargo)
 ### convenient settings
 1. vscode `settings.json` 에서 다음을 저장
-   ``` "[rust]": {
-    "editor.defaultFormatter": "rust-lang.rust-analyzer", // Makes the magic
-    "editor.formatOnSave": true, // Optional
-  },```
+   ``` 
+   "[rust]": {
+      "editor.defaultFormatter": "rust-lang.rust-analyzer", // Makes the magic
+      "editor.formatOnSave": true, // Optional
+   }
+   ```
+  
 
 ### cargo
 
@@ -22,6 +27,7 @@
 
 ## Common Programming Concept
 
+   - [Variables and mutability](#Variables-and-mutability)
 ### Variables and mutability
 1. Immutability
    1. 변수가 불변할 때, 이름에 할당된 값을 바꿀 수 없음.
