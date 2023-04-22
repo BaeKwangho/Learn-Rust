@@ -1,5 +1,5 @@
 [package]
-name = "Learn-Rust"
+name = "learn-rust"
 version = "0.1.0"
 edition = "2021"
 
